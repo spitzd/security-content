@@ -26,3 +26,6 @@ tags:
   asset_type: AWS ECR container
   mitre_attack_id:
   - T1525
+  rba_risk_object:
+  rba_risk_object_type:
+  rba_risk_object_score:

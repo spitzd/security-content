@@ -16,3 +16,6 @@ tags:
   security_domain: threat
 type: ESCU
 version: 1
+  rba_risk_object:
+  rba_risk_object_type:
+  rba_risk_object_score:

@@ -24,3 +24,6 @@ tags:
   - DE.CM
   security_domain: access
   asset_type: Infrastructure
+  rba_risk_object:
+  rba_risk_object_type:
+  rba_risk_object_score:

@@ -47,3 +47,6 @@ tags:
   - PR.AC
   security_domain: network
   asset_type: AWS Instance
+  rba_risk_object:
+  rba_risk_object_type:
+  rba_risk_object_score:

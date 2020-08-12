@@ -29,3 +29,6 @@ tags:
   - PR.IP
   security_domain: access
   asset_type: Domain Server
+  rba_risk_object:
+  rba_risk_object_type:
+  rba_risk_object_score:

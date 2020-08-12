@@ -35,3 +35,6 @@ tags:
   - DE.CM
   security_domain: network
   asset_type: S3 Bucket
+  rba_risk_object:
+  rba_risk_object_type:
+  rba_risk_object_score:

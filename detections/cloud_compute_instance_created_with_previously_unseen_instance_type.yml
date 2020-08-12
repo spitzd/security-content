@@ -32,3 +32,6 @@ tags:
   - ID.AM
   security_domain: endpoint
   asset_type: Cloud Compute Instance
+  rba_risk_object:
+  rba_risk_object_type:
+  rba_risk_object_score:

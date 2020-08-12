@@ -32,4 +32,6 @@ tags:
   nist:
   - DE.CM
   security_domain: network
-  asset_type: Endpoint
+  asset_type: Endpoint  rba_risk_object:
+  rba_risk_object_type:
+  rba_risk_object_score:

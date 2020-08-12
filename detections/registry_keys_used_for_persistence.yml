@@ -46,3 +46,6 @@ tags:
   - DE.AE
   security_domain: endpoint
   asset_type: Endpoint
+  rba_risk_object:
+  rba_risk_object_type:
+  rba_risk_object_score:

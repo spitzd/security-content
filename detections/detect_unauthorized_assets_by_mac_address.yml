@@ -40,3 +40,6 @@ tags:
   - PR.DS
   security_domain: network
   asset_type: Infrastructure
+  rba_risk_object:
+  rba_risk_object_type:
+  rba_risk_object_score:
